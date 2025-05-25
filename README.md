@@ -5,6 +5,7 @@ El desarrollo del siguiente trabajo consite en la clasificación miltietiqueta d
 Contenidos:
   - Libros_raw.csv : datos en bruto extraídos a partir de webscraping
   - Libros_filtrado.csv : datos limpios procesados
+  - embeddings_limpio.npy y embeddings_sentences_transformers.npy: contienen los embeddings realizados, se pueden cargar para ejecutar los modelos u observar las proyección sin necesidad de generarlo cada vez, con el objetivo de reducir el tiempo de ejecución.
   - ProyectoNLP.ipynb : Notebook que contiene el código empleado
   - ProyectoNLP_memoria.pdf : Memoria del trabajo
   - ProyectoNLP_presentacion.pdf : Presentación del trabajo
