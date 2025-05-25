@@ -31,6 +31,7 @@ Construir un modelo propio de clasificación de género, empleando funciones dis
 
 4-Modelo pre-entrenado
 
-Fine-tuning de tres formas distintas para adaptarlo a nuestro problema de clasificación a partir del texto limpio pero sin preprocesado.
+Fine-tuning de tres formas distintas para adaptar el modelo distilbert-base-cased a nuestro problema de clasificación a partir del texto limpio pero sin preprocesado.
+
 
 
